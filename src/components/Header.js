@@ -289,7 +289,7 @@ const Header = () => {
                 </div>
               </li>
               <li>
-                <Link href="" className="hover:text-[#DA0025]" to="/about-us">
+                <Link href="/about-us" className="hover:text-[#DA0025]">
                   About Us
                 </Link>
               </li>

@@ -27,8 +27,15 @@ import about2 from "./about2.png"
 import about3 from "./about3.png"
 import about5 from "./about5.png"
 import about6 from "./about6.png"
+import discount from "./discount.svg"
+import cherry_1 from "./cherry_1.webp"
+import shape_5 from "./shape_5.webp"
+import about_1_1 from "./about_1_1.webp"
+import about_1_2 from "./about_1_2.png"
 
 export const assets = {
+    about_1_1,
+    about_1_2,
     about_image,
     header_arrow,
     logo,
@@ -57,7 +64,10 @@ export const assets = {
     about2,
     about3, 
     about5,
-    about6
+    about6,
+    discount,
+    cherry_1,
+    shape_5
 }
 
 export const FreeDeliveryIcon = () =>{
