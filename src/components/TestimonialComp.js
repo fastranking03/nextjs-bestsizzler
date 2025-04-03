@@ -208,7 +208,7 @@ const TestimonialComp = () => {
                           <div className="flex gap-4 items-center mt-5">
                             <Image
                               src="https://res.cloudinary.com/dj7wogsju/image/upload/v1742205929/Component_8_2_oi6zzj.png"
-                              alt="" width={200} height={200}
+                              alt="" width={60} height={60}
                             />
 
                             <div>

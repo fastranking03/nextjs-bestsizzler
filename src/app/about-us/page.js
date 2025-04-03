@@ -16,9 +16,11 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Image from 'next/image'
 import { assets } from "@/assets/assets";
+ 
 
 const About = () => {
   return (
+    
     <div>
       < Header />
       <ResponsiveHeader />

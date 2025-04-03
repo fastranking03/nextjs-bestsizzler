@@ -47,6 +47,7 @@ const GalleryComp = () => {
                                     width={350}
                                     height={350}
                                     className="mx-5 h-65 w-65"
+                                    alt=""
                                 />
                             </li>
                             <li>
@@ -55,6 +56,7 @@ const GalleryComp = () => {
                                     className="mx-5 h-65 w-65 "
                                     width={350}
                                     height={350}
+                                    alt=""
                                 />
                             </li>
                             <li>
@@ -63,6 +65,7 @@ const GalleryComp = () => {
                                     className="mx-5 h-65 w-65"
                                     width={350}
                                     height={350}
+                                    alt=""
                                 />
                             </li>
                             <li>
@@ -71,6 +74,7 @@ const GalleryComp = () => {
                                     className="mx-5 h-65 w-65"
                                     width={350}
                                     height={350}
+                                    alt=""
                                 />
                             </li>
                             <li>
@@ -79,6 +83,7 @@ const GalleryComp = () => {
                                     className="mx-5 h-65 w-65"
                                     width={350}
                                     height={350}
+                                    alt=""
                                 />
                             </li>
                             <li>
@@ -87,6 +92,7 @@ const GalleryComp = () => {
                                     className="mx-5 h-65 w-65"
                                     width={350}
                                     height={350}
+                                    alt=""
                                 />
                             </li>
                             <li>
@@ -95,6 +101,7 @@ const GalleryComp = () => {
                                     className="mx-5 h-65 w-65"
                                     width={350}
                                     height={350}
+                                    alt=""
                                 />
                             </li>
                         </ul>
