@@ -1,3 +1,4 @@
+"use client"
 import React, { useState} from "react";
 import { FaAngleDown ,FaAngleUp,FaArrowRight } from "react-icons/fa6";
 import Link from "next/link";

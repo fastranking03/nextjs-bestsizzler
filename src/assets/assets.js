@@ -32,6 +32,7 @@ import cherry_1 from "./cherry_1.webp"
 import shape_5 from "./shape_5.webp"
 import about_1_1 from "./about_1_1.webp"
 import about_1_2 from "./about_1_2.png"
+import signup from "./signup.png"
 
 export const assets = {
     about_1_1,
@@ -67,7 +68,8 @@ export const assets = {
     about6,
     discount,
     cherry_1,
-    shape_5
+    shape_5,
+    signup
 }
 
 export const FreeDeliveryIcon = () =>{
